@@ -1,0 +1,13 @@
+C:\Users\hbass\OneDrive\Bureau\Baynie\BudgetSimulator.exe
+C:\Users\hbass\OneDrive\Bureau\Baynie\BudgetSimulator.dll
+C:\Users\hbass\OneDrive\Bureau\Baynie\BudgetSimulator.deps.json
+C:\Users\hbass\OneDrive\Bureau\Baynie\BudgetSimulator.runtimeconfig.json
+C:\Users\hbass\OneDrive\Bureau\Baynie\BudgetSimulator.pdb
+C:\Users\hbass\OneDrive\Bureau\Baynie\ClosedXML.dll
+C:\Users\hbass\OneDrive\Bureau\Baynie\ClosedXML.Parser.dll
+C:\Users\hbass\OneDrive\Bureau\Baynie\DocumentFormat.OpenXml.dll
+C:\Users\hbass\OneDrive\Bureau\Baynie\DocumentFormat.OpenXml.Framework.dll
+C:\Users\hbass\OneDrive\Bureau\Baynie\ExcelNumberFormat.dll
+C:\Users\hbass\OneDrive\Bureau\Baynie\RBush.dll
+C:\Users\hbass\OneDrive\Bureau\Baynie\SixLabors.Fonts.dll
+C:\Users\hbass\OneDrive\Bureau\Baynie\System.IO.Packaging.dll

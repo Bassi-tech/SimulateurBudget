@@ -1,0 +1,93 @@
+[
+  {
+    "Date": "2025-05-24T17:33:30.2286512+02:00",
+    "Description": "salaire ",
+    "Categorie": "paie",
+    "Montant": 300000,
+    "Type": 0
+  },
+  {
+    "Date": "2025-05-24T17:33:54.1507996+02:00",
+    "Description": "salaire",
+    "Categorie": "",
+    "Montant": 3000,
+    "Type": 0
+  },
+  {
+    "Date": "2025-05-24T17:34:22.3291316+02:00",
+    "Description": "",
+    "Categorie": "",
+    "Montant": 0,
+    "Type": 0
+  },
+  {
+    "Date": "2025-05-24T17:34:41.6047645+02:00",
+    "Description": "",
+    "Categorie": "",
+    "Montant": 0,
+    "Type": 0
+  },
+  {
+    "Date": "2025-05-24T17:51:37.623266+02:00",
+    "Description": "mon",
+    "Categorie": "don",
+    "Montant": 2000,
+    "Type": 0
+  },
+  {
+    "Date": "2025-05-24T18:29:56.9276828+02:00",
+    "Description": "course",
+    "Categorie": "vie",
+    "Montant": 250,
+    "Type": 1
+  },
+  {
+    "Date": "2025-05-24T18:30:50.099015+02:00",
+    "Description": "course",
+    "Categorie": "vie",
+    "Montant": 300,
+    "Type": 0
+  },
+  {
+    "Date": "2025-05-24T17:33:30.2286512+02:00",
+    "Description": "salaire ",
+    "Categorie": "paie",
+    "Montant": 3000,
+    "Type": 1
+  },
+  {
+    "Date": "2025-05-24T19:22:40.1194766+02:00",
+    "Description": "o",
+    "Categorie": "n",
+    "Montant": 295000,
+    "Type": 1
+  },
+  {
+    "Date": "2025-05-24T19:45:07.3114952+02:00",
+    "Description": "",
+    "Categorie": "",
+    "Montant": 3000,
+    "Type": 1
+  },
+  {
+    "Date": "2025-05-24T19:51:11.4221764+02:00",
+    "Description": "",
+    "Categorie": "Restaurants",
+    "Montant": 200,
+    "Type": 1
+  },
+  {
+    "Date": "2025-05-25T16:16:20.505805+02:00",
+    "Description": "Retard",
+    "Categorie": null,
+    "Montant": 260,
+    "Type": 1
+  },
+  {
+    "Date": "2025-05-25T16:36:15.9192521+02:00",
+    "Description": "",
+    "Categorie": "Impots",
+    "Montant": 600,
+    "Type": 1
+  }
+]
